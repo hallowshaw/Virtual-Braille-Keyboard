@@ -8,7 +8,7 @@ A Virtual Braille Keyboard can be a valuable tool for individuals who are blind 
 ## Features
 
 - **Virtual Braille Keyboard**: A user-friendly interface for inputting Braille characters.
-- **Translation Capability**: Click the "Translate" button to convert Braille input into English language text.
+- **Translation Capability**: Click the "Translate to Text" button to convert Braille input into English language text.
 - **Responsive Design**: Ensures optimal user experience across various screen sizes.
 
 ## Technologies Used
@@ -18,7 +18,7 @@ A Virtual Braille Keyboard can be a valuable tool for individuals who are blind 
 
 ## Demo
 
-![Screenshot 1](link-to-screenshot-1.png)
+<img src="https://github.com/hallowshaw/Virtual-Braille-Keyboard/blob/main/public/ss2.png">
 
 ## Installation
 
@@ -33,7 +33,7 @@ To run the project locally, follow these steps:
 
 1. Open the application in your preferred browser.
 2. Utilize the Virtual Braille Keyboard to input Braille characters.
-3. Click the "Translate" button to seamlessly convert the Braille input into English text.
+3. Click the "Translate to Text" button to seamlessly convert the Braille input into English text.
 
 ## Contributing
 
@@ -53,7 +53,9 @@ This project is licensed under the [MIT License](LICENSE).
 
 We extend our gratitude to the following resources that inspired or contributed to this project:
 
-- [[List any external libraries, tutorials, or resources](https://www.wikihow.com/images/thumb/d/d6/Read_Braille_Revision.jpg/aid68596-v4-728px-Read_Braille_Revision.jpg)]
+<img src="https://github.com/hallowshaw/Virtual-Braille-Keyboard/blob/main/public/ss1.jpg">
+
+[Learn how to read Braille](https://www.wikihow.com/Read-Braille)
 
 ## Contact
 
