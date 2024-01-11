@@ -1,10 +1,9 @@
 # Virtual Braille Keyboard in ReactJS
 
-![Project Logo](link-to-your-logo.png)
 
 ## Overview
 
-The Virtual Braille Keyboard in ReactJS is a sophisticated application designed to facilitate Braille input and translation to the English language. This project leverages the power of ReactJS and Vite to deliver a seamless user experience, offering an intuitive virtual keyboard and a robust translation feature.
+A Virtual Braille Keyboard can be a valuable tool for individuals who are blind or visually impaired. Braille is a tactile writing system that uses raised dots to represent letters, numbers, and symbols, allowing blind individuals to read through touch. A virtual Braille keyboard extends this concept to digital devices, providing a software-based interface that emulates the physical Braille display. The Virtual Braille Keyboard in ReactJS is a sophisticated application designed to facilitate Braille input and translation to the English language. This project leverages the power of ReactJS and Vite to deliver a seamless user experience, offering an intuitive virtual keyboard and a robust translation feature. 
 
 ## Features
 
@@ -16,20 +15,16 @@ The Virtual Braille Keyboard in ReactJS is a sophisticated application designed 
 
 - ReactJS
 - Vite (for project setup and development)
-- [List other dependencies used]
 
 ## Demo
 
-Explore the live demo [here](link-to-live-demo) or check out the screenshots below:
-
 ![Screenshot 1](link-to-screenshot-1.png)
-![Screenshot 2](link-to-screenshot-2.png)
 
 ## Installation
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/your-repo.git`
+1. Clone the repository: `git clone https://github.com/hallowshaw/Virtual-Braille-Keyboard.git`
 2. Navigate to the project directory: `cd your-repo`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
@@ -58,14 +53,13 @@ This project is licensed under the [MIT License](LICENSE).
 
 We extend our gratitude to the following resources that inspired or contributed to this project:
 
-- [List any external libraries, tutorials, or resources]
+- [[List any external libraries, tutorials, or resources](https://www.wikihow.com/images/thumb/d/d6/Read_Braille_Revision.jpg/aid68596-v4-728px-Read_Braille_Revision.jpg)]
 
 ## Contact
 
 For inquiries, feedback, or support, please contact:
 
-- Your Name
-- Your Email
-- [Any other contact information]
+- Rhitam Chaudhury
+- rhitam.rit54@gmail.com
 
 Feel free to reach out – we value your input!
