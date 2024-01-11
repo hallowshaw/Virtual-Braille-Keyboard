@@ -1,0 +1,15 @@
+/* BrailleKeyboard.css */
+.braille-keyboard {
+    /* Add your existing styles for the Braille keyboard container */
+  
+    .braille-key {
+      cursor: pointer;
+      transition: background-color 0.3s ease;
+    }
+  
+    .braille-key:hover,
+    .braille-key:active {
+      background-color: #ddd; /* Change this to your desired hover/pressed background color */
+    }
+  }
+  
